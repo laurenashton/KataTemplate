@@ -55,3 +55,6 @@ java_app.pid
 
 # jenv
 .java-version
+
+# Eclipse build
+bin/
